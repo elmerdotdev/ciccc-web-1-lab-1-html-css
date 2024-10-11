@@ -1,4 +1,4 @@
-# Web Dev 1 - Lab Day 1
+# Web 1 - Lab Day 1
 
 ## Instructions
 
